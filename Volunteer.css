@@ -1,0 +1,106 @@
+body{
+	background-image: url("https://i.imgur.com/iGFGTcs.png");
+	margin: 0;
+	padding: 0;
+	background-repeat: no-repeat;
+	background-position: 0px 180px;
+	background-size: 100%;
+}
+ul {
+   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.active5 {
+  background-color: #5d95c9;
+}
+
+.navbar a:hover {
+  border-bottom: 3px solid blue;
+}
+
+.navbar a.active {
+  border-bottom: 3px solid blue;
+}
+
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  border-bottom: 3px solid transparent;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  margin-top: top;
+}
+
+.navbar li {
+  display: inline-block;
+  font-size: 25px;
+  padding: 10px;
+}
+
+.parallelogram {
+	border-radius: 25px;
+	width: 80%;
+	height: 750px;
+	transform: skew(-15deg);
+	background-image: url("https://cdn.discordapp.com/attachments/640336956357738516/646663088137043968/adventure.jpg");
+	background-position: center;
+	background-size: cover;
+	margin-left: 120px;
+}
+h2 {
+	text-align: center;
+	padding-top: 5px;
+	font-size: 35px;
+	color: white;
+	transform: skew(15deg);
+}
+p.a, .b {
+	color: white;
+	margin: -20px 15px -20px 15px;
+}
+h2.a {
+	text-align: left;
+	margin-left: 15px;
+	padding-top: 15px;
+}
+p.c {
+	font-family: "Corbel";
+	text-align: center;
+	color: white;
+	margin-top: 50px;
+}
+.rec1 {
+	height: 80px;
+	width: 100%;
+	background: #333;
+	margin-top: 20px;
+	
+}
+p.d {
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+}

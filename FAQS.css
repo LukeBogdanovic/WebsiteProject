@@ -1,0 +1,182 @@
+body{
+    background-image: url("https://i.imgur.com/iGFGTcs.png");
+    margin: 0;
+    padding: 0;
+	background-repeat: no-repeat;
+	background-position: 0px 180px;
+	background-size: 100%;
+}
+ul {
+   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.active4 {
+  background-color: #5d95c9;
+}
+
+.navbar a:hover {
+  border-bottom: 3px solid blue;
+}
+
+.navbar a.active {
+  border-bottom: 3px solid blue;
+}
+
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  border-bottom: 3px solid transparent;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  margin-top: top;
+}
+
+.navbar li {
+  display: inline-block;
+  font-size: 25px;
+  padding: 10px;
+}
+
+.parellelogram1 {
+	margin-top: 20px;
+    border-radius: 15px;
+    margin-left: 5%;
+    width: 90%;
+    height: 40px;
+    transform: skew(-15deg);
+    background: #5d95c9;
+	
+}
+
+.parellelogram2 {
+	margin-top: 35px;
+    border-radius: 15px;
+    margin-left: 5%;
+    width: 90%;
+    height: 40px;
+    transform: skew(-15deg);
+    background: #5d95c9;
+	
+}
+
+.parellelogram3 {
+	margin-top: 30px;
+    border-radius: 15px;
+    margin-left: 5%;
+    width: 90%;
+    height: 40px;
+    transform: skew(-15deg);
+    background: #5d95c9;
+	
+}
+
+.parellelogram4 {
+	margin-top: 60px;
+    border-radius: 15px;
+    margin-left: 5%;
+    width: 90%;
+    height: 40px;
+    transform: skew(-15deg);
+    background: #5d95c9;
+	
+}
+
+p.q1 {
+    font-family: "Georgia";
+	padding-left: 20px;
+	padding-top: 10px;
+	color: white;
+	
+}
+p.a1 {
+	font-family: "Georgia";
+	margin-left: 90px;
+	margin-top: 10px;
+	margin-right: 100px;
+	color: white;
+}
+
+p.q2 {
+    font-family: "Georgia";
+	padding-left: 20px;
+	padding-top: 10px;
+	color: white;
+	
+}
+p.a2 {
+	font-family: "Georgia";
+	margin-left: 90px;
+	margin-top: 10px;
+	margin-right: 100px;
+	color: white;
+	
+}
+
+p.q3 {
+    font-family: "Georgia";
+	padding-left: 20px;
+	padding-top: 10px;
+	color: white;
+	
+}
+p.a3 {
+	font-family: "Georgia";
+	margin-left: 90px;
+	margin-top: 10px;
+	margin-right: 100px;
+	color: white;
+	
+}
+
+p.q4 {
+    font-family: "Georgia";
+	padding-left: 20px;
+	padding-top: 10px;
+	color: white;
+	
+}
+p.a4 {
+	font-family: "Georgia";
+	margin-left: 90px;
+	margin-top: 10px;
+	margin-right: 100px;
+	color: white;
+	
+}
+
+.rec1 {
+	height: 80px;
+	width: 100%;
+	background: #333;
+	margin-top: 20px;
+	
+}
+
+p.d {
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+}
